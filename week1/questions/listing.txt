@@ -1,0 +1,10 @@
+total 5
+-rw-rw-r-- 1 u5980963 u5980963 365 Sep 11 11:50 python
+-rw-rw-r-- 1 u5980963 u5980963  18 Sep 11 10:46 python.save
+-rw-rw-r-- 1 u5980963 u5980963  22 Sep 11 10:50 python.save.1
+-rw-rw-r-- 1 u5980963 u5980963  22 Sep 11 10:50 python.save.2
+-rw-rw-r-- 1 u5980963 u5980963  22 Sep 11 10:56 python.save.3
+-rw------- 1 u5980963 u5980963   0 Sep 11 11:28 python.save.4
+-rw-rw-r-- 1 u5980963 u5980963  17 Sep 11 11:28 python.save.5
+drwxrwxr-x 2 u5980963 u5980963   6 Sep 13 09:08 questions
+-rw-rw-r-- 1 u5980963 u5980963   0 Sep 13 07:54 rename.txt

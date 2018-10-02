@@ -1,0 +1,15 @@
+git clone https://github.com/tctawan/iccs207test.git
+cd iccs207test
+git branch foobar
+git checkout foobar
+nano week3/yadayada.txt
+git add .
+git commit -m "hw1"
+git checkout master
+nano week3/yadaya.txt
+git add .
+git commit -m "hw1"
+git checkout foobar
+git remote add upstream ssh:https://github.com/KrityaLee/iccs207test
+git checkout master
+
